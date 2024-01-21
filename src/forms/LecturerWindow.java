@@ -66,9 +66,9 @@ public class LecturerWindow extends JFrame {
 
         if (lecturers != null && !lecturers.isEmpty()) {
             for (JsonObject lecturer : lecturers) {
-                String lecturerName = lecturer.get("studentName").getAsString();
-                String lecturerSurname = lecturer.get("studentSurname").getAsString();
-                String lecturerID = lecturer.get("studentNumber").getAsString();
+                String lecturerName = lecturer.get("lecturerName").getAsString();
+                String lecturerSurname = lecturer.get("lecturerSurname").getAsString();
+                String lecturerID = lecturer.get("lecturerID").getAsString();
                 String faculty = lecturer.get("faculty").getAsString();
                 String program = lecturer.get("program").getAsString();
 
