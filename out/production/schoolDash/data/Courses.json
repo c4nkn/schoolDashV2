@@ -1,0 +1,86 @@
+[
+  {
+    "faculties": [
+      {
+        "facultyName": "Faculty of Engineering",
+        "programs": [
+          {
+            "programName": "Computer Science",
+            "courses": [
+              {
+                "courseCode": "CS101",
+                "courseName": "Object Oriented Programming",
+                "lecturer": "Emrah Saricicek"
+              },
+              {
+                "courseCode": "CS102",
+                "courseName": "Visual Programming",
+                "lecturer": "Emrah Saricicek"
+              }
+            ]
+          },
+          {
+            "programName": "Electrical Engineering",
+            "courses": [
+              {
+                "courseCode": "EEE101",
+                "courseName": "Introduction to Electrical Engineering",
+                "lecturer": "Prof. Ahmet"
+              },
+              {
+                "courseCode": "EEE102",
+                "courseName": "Test",
+                "lecturer": "Test"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "facultyName": "Faculty of Medicine",
+        "programs": [
+          {
+            "programName": "Medicine",
+            "courses": [
+              {
+                "courseCode": "MED101",
+                "courseName": "Human Anatomy",
+                "lecturer": "Prof. Ali"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "facultyName": "Faculty of Economics",
+        "programs": [
+          {
+            "programName": "Economics",
+            "courses": [
+              {
+                "courseCode": "ECO101",
+                "courseName": "Microeconomics",
+                "lecturer": "Prof. Mehmet"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "facultyName": "Faculty of Law",
+        "programs": [
+          {
+            "programName": "Law",
+            "courses": [
+              {
+                "courseCode": "LAW101",
+                "courseName": "Introduction to Legal Studies",
+                "lecturer": "Prof. Mehmet"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

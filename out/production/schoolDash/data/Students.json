@@ -1,0 +1,35 @@
+[
+  {
+    "studentNumber": 1,
+    "studentName": "Can",
+    "studentSurname": "Kahraman",
+    "faculty": "Faculty of Engineering",
+    "program": "Computer Science",
+    "courses": [
+      {
+        "courseCode": "CS101",
+        "courseName": "Introduction to Programming",
+        "lecturer": "Refik Tanju Sirmen"
+      },
+      {
+        "courseCode": "CS102",
+        "courseName": "Object Oriented Programming",
+        "lecturer": "Emrah Saricicek"
+      }
+    ]
+  },
+  {
+    "studentNumber": 2,
+    "studentName": "Ali",
+    "studentSurname": "Mutlu",
+    "faculty": "Faculty of Medicine",
+    "program": "Medicine",
+    "courses": [
+      {
+        "courseCode": "MED101",
+        "courseName": "Human Anatomy",
+        "lecturer": "Prof. Ali"
+      }
+    ]
+  }
+]
