@@ -1,0 +1,68 @@
+[
+  {
+    "lecturerID": 1,
+    "lecturerName": "Emrah",
+    "lecturerSurname": "Saricicek",
+    "faculty": "Faculty of Engineering",
+    "program": "Computer Science",
+    "courses": [
+      {
+        "courseCode": "CS102",
+        "courseName": "Object Oriented Programming",
+        "lecturer": "Emrah Saricicek"
+      }
+    ]
+  },
+  {
+    "lecturerID": 2,
+    "lecturerName": "Refik Tanju",
+    "lecturerSurname": "Sirmen",
+    "faculty": "Faculty of Engineering",
+    "program": "Computer Science",
+    "courses": [
+      {
+        "courseCode": "CS101",
+        "courseName": "Introduction to Programming",
+        "lecturer": "Refik Tanju Sirmen"
+      }
+    ]
+  },
+  {
+    "lecturerID": 3,
+    "lecturerName": "Can",
+    "lecturerSurname": "Kahraman",
+    "faculty": "Faculty of Engineering",
+    "program": "Computer Science",
+    "courses": [
+      {
+        "courseCode": "CS101",
+        "courseName": "Object Oriented Programming",
+        "lecturer": "Can Kahraman"
+      },
+      {
+        "courseCode": "CS102",
+        "courseName": "Visual Programming",
+        "lecturer": "Can Kahraman"
+      }
+    ]
+  },
+  {
+    "lecturerID": 4,
+    "lecturerName": "Kerem",
+    "lecturerSurname": "Ketenci",
+    "faculty": "Faculty of Engineering",
+    "program": "Electrical Engineering",
+    "courses": [
+      {
+        "courseCode": "EEE101",
+        "courseName": "Introduction to Electrical Engineering",
+        "lecturer": "Kerem Ketenci"
+      },
+      {
+        "courseCode": "EEE102",
+        "courseName": "Test",
+        "lecturer": "Kerem Ketenci"
+      }
+    ]
+  }
+]
